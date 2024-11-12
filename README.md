@@ -6,3 +6,5 @@
 
 
 •I will turn the raw data set into meaningful quantitive information.
+
+• This data set helps predict whether an individual with particular characteristics is expected to be absent from work for a certain amount of time or not.

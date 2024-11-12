@@ -1,2 +1,4 @@
 # Data-Analyst-Project: Absenteeism Exercise
-This repository serves as the solution for the practical examples from the #CompleteDataAnalystTraining.  It showcases my ability to tackle various Python challenges and demonstrates my proficiency in Python query writing and problem-solving skills.
+The absence from work during normal working hours, resulting in temporary incapacity to execute a regular working activity.
+I want to help the businesspeople figure out how to preserve hgih productivity rates.
+I will turn the raw data set into meaningful quantitive information.

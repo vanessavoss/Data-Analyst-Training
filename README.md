@@ -1,4 +1,4 @@
-# Data-Analyst-Project: Absenteeism Exercise
+# Case Study 1: Absenteeism Exercise
 •The absence from work during normal working hours, resulting in temporary incapacity to execute a regular working activity.
 
 

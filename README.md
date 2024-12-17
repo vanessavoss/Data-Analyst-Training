@@ -1,4 +1,4 @@
-# Case Study 1: Understanding Absenteeism in the Workplace 📊
+# Case Study #1: Understanding Absenteeism in the Workplace 📊
 
 ### Introduction
 

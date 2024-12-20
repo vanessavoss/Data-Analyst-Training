@@ -1,1 +1,25 @@
-This data set helps predict whether an individual with particular characteristics is expected to be absent from work for a certain amount of time or not.
+# Conclusion
+
+The objective of our data analysis was to predict whether an individual with certain characteristics is likely to be absent from work at any given time. We focused on factors such as:
+
+The distance from home to the workplace
+The number of children and pets they have
+Whether they have higher education
+
+## Key Factors Affecting Absenteeism:
+
+### High Impact Factors:
+* Certain infectious and parasitic diseases
+* Diseases of the blood and blood-forming organs, along with immune-related disorders
+* Transport expenses
+* The number of children
+
+### Low Impact Factors:
+* Daily workload
+* Average distance to work
+* Day of the week
+
+## Key Insights from the Data:
+
+The likelihood of excessive absenteeism is 20 times higher for individuals who have been poisoned compared to those who report no reason for their absence.
+Another significant factor contributing to absenteeism is illness. Employees who report being sick are 14 times more likely to have excessive absenteeism than those who do not specify a reason.

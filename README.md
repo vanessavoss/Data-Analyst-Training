@@ -6,6 +6,9 @@ Absenteeism refers to the absence from work during normal working hours, which r
 
 This case study focuses on using data to predict absenteeism and how businesses can use this information to improve productivity.
 
+## Absenteeism Data
+We will begin by preprocessing the dataset, with a step-by-step guide available in the 'Preprocessing the Absenteeism Data' file. Next, we will develop a machine learning model using Logistic Regression located in the 'Predictions with a Logistic Regression Classifier'. 
+
 
 ## Conclusion
 

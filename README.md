@@ -7,10 +7,12 @@ Absenteeism refers to the absence from work during normal working hours, which r
 This case study focuses on using data to predict absenteeism and how businesses can use this information to improve productivity.
 
 ## Absenteeism Data
-We will begin by preprocessing the dataset, with a step-by-step guide available in the 'Preprocessing the Absenteeism Data' file. Next, we will develop a machine learning model using Logistic Regression located in the 'Predictions with a Logistic Regression Classifier'. 
+We will begin by preprocessing the dataset, with a step-by-step guide available in the 'Preprocessing the Absenteeism Data' file. We will go through the multiple columns in the dataset and prepare them for the Machine Learning algorithms we will later deploy to find out what intuitions are buried in the data. The preparation involves extracting relevant data, dropping irrelevant columns and converting the data types in columns to usable format.
+
+Next, we will develop a machine learning model using Logistic Regression located in the 'Predictions with a Logistic Regression Classifier'. Using the preprocessed data, we will build a logistic regression classifier (Logit model) to predict whether an employee is likely to exhibit excessive absenteeism, based on the predictors we’ve prepared. 
 
 
-## Conclusion
+## Conclusions
 
 The objective of our data analysis was to predict whether an individual with certain characteristics is likely to be absent from work at any given time. We focused on factors such as:
 

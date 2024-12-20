@@ -1,13 +1,13 @@
 # Case Study #1: Understanding Absenteeism in the Workplace 📊
 
-### Introduction
+## Introduction
 
 Absenteeism refers to the absence from work during normal working hours, which results in a temporary inability to perform regular job duties.
 
-
 This case study focuses on using data to predict absenteeism and how businesses can use this information to improve productivity.
 
-# Conclusion
+
+## Conclusion
 
 The objective of our data analysis was to predict whether an individual with certain characteristics is likely to be absent from work at any given time. We focused on factors such as:
 
